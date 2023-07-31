@@ -1,0 +1,13 @@
+GET http://localhost:3002
+
+
+###
+
+POST http://localhost:3002
+
+###
+
+POST http://localhost:3002/try-post
+Content-Type: application/x-www-form-urlencoded
+
+name=shin&age=29
